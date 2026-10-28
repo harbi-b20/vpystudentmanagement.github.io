@@ -1,0 +1,1 @@
+<input type="text" value="{{ $user->username }}">
